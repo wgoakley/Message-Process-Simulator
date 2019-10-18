@@ -1,0 +1,10 @@
+* Tasks
+** DONE Create a todo list
+   CLOSED: [2018-08-19 Sun 18:59]
+** DONE Outline document
+   CLOSED: [2018-08-19 Sun 18:59]
+** TODO Write introduction
+** TODO 
+** TODO 
+** TODO 
+** TODO 
